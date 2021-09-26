@@ -85,7 +85,7 @@ First, download all the data (GEC benchmarks and training data) by running `./do
 #### Round 0
 Here we train an initial fixer on synthetic GEC data. Run the commands in `src/run-round0.sh`.
  - This corresponds to the "Transformer" baseline in the paper Table 4.
- - The original synthetic data was dowloaded from [here](https://github.com/awasthiabhijeet/PIE/tree/master/errorify), and our processed data is available at `data/round0__synthetic/synthetic_paired_data_9M.json`
+ - The original synthetic data was downloaded from [here](https://github.com/awasthiabhijeet/PIE/tree/master/errorify), and our processed data is available at `data/round0__synthetic/synthetic_paired_data_9M.json`
 
 
 #### Round 1
